@@ -1,0 +1,8 @@
+busca@busca.io ..............................Busca en todas las secciones, no da resultados tan exactos
+revolico@busca.io............................Busca en todas las secciones, no da resultados tan exactos
+busca.computadoras@busca.io..................Busca en la sección de Computadoras(Laptop, Tarjeta de video, etc)
+busca.autos@busca.io.........................Busca en la sección de Autos(Piezas/Accesorios, Motos, etc)
+busca.compraventa@busca.io...................Busca en la sección de Compra/Venta (Celulares, Ropa etc)
+busca.empleos@busca.io.......................Busca en la sección Empleos (Ofertas de empleo, etc)
+busca.servicios@busca.io.....................Busca en la sección Servicios(Clases/ Cursos, etc)
+busca.vivienda@busca.io......................Busca en la sección de vivienda(Compra/Venta, renta,etc)
