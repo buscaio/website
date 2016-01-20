@@ -1,0 +1,5 @@
+In some countries, like Cuba, not everyone can connect to the internet. Yes, we are still waiting. 
+Busca.io helps people inside that country search for products/ jobs/services using their email accounts (most of them have email accounts, but no internet connection). 
+We do not generate any content, we just search. 
+If you are reading this from your phone, connected to your home Wifi, the good news is that you do not need this service and you are, in some small and essential way, a lucky person.  
+However, If you would like to start using this service or you know someone that could use it, send an email to ayuda@busca.io . You will receive an email with instructions.
